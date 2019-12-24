@@ -17,3 +17,8 @@ h2 {
 a {
     text-decoration: none;
 }
+
+strong {
+    font-style: italic;
+    text-transform: upper;
+}

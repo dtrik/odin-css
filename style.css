@@ -1,7 +1,10 @@
 body {
     font-size: 14px;
-    color: navy;
-    font-family: helvetica, arial, serif;
+    color: black;
+    font-family: arial, helvetica, serif;
+    background-color: #ffc;
+    margin: 20px;
+    padding: 0;
 }
 
 h1 {

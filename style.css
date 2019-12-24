@@ -54,3 +54,7 @@ img {
     border-width: 2px;
     border-color: #ccc;
 }
+
+table {
+    background-color: #ccc;
+}

@@ -48,9 +48,6 @@ p {
 }
 
 h3 {
-    border-style: dotted;
-    border-width: 3px;
-    border-left-width: 10px;
-    border-right-width: 10px;
-    border-color: red;
+    color: #999;
+    font-size: 1.25em;
 }
